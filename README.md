@@ -1,4 +1,4 @@
-🚗🌳 Smart Parking Shade Optimization System
+🚗🌳 Smart Parking Shade Optimization System.
 Hybrid PSO + WOA Based Urban Heat Mitigation
 📌 Project Overview
 
