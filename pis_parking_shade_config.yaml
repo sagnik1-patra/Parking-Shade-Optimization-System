@@ -1,0 +1,9 @@
+features:
+- humidity
+- pressure
+- temperature
+- wind_speed
+- wind_direction
+model: CNN + Hybrid AIS + PSO
+mse: 0.01649869338223684
+r2_score: 0.9995449045663152

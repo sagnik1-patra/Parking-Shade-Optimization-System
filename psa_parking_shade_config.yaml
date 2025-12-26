@@ -1,0 +1,9 @@
+features:
+- humidity
+- pressure
+- temperature
+- wind_speed
+- wind_direction
+model: CNN + Hybrid PSO + CSA
+mse: 0.003060985623213253
+r2_score: 0.9999155666120082

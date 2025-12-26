@@ -1,0 +1,9 @@
+features:
+- humidity
+- pressure
+- temperature
+- wind_speed
+- wind_direction
+model: CNN + PSO
+mse: 0.003684062466464317
+r2_score: 0.9998983798312354
